@@ -1,0 +1,1 @@
+A hands-on project to explore production-ready Spring Boot features, including JPA Auditing, Hibernate Envers, Spring REST Client, Logging (SLF4J + Logback), Spring Boot Actuator, and Swagger/OpenAPI integration. Ideal for learning how to build robust, secure, and maintainable enterprise applications.
