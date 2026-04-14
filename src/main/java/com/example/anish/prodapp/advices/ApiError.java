@@ -6,6 +6,8 @@ import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
 
+
+//test jenkins
 @Data
 @AllArgsConstructor
 public class ApiError {
